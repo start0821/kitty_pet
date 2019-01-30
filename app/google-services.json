@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "168430477734",
+    "firebase_url": "https://dear-kitty.firebaseio.com",
+    "project_id": "dear-kitty",
+    "storage_bucket": "dear-kitty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168430477734:android:d6b656e9489bd561",
+        "android_client_info": {
+          "package_name": "com.geoape.backgroundlocationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168430477734-5necl2p0v24o9m67ru765a5t4p83u8qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geoape.backgroundlocationexample",
+            "certificate_hash": "765402b78ae747053ada0591abad74bd2f5c09c7"
+          }
+        },
+        {
+          "client_id": "168430477734-52dsmv7dkst5ltgkc44gpi85kgq2lnil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6AuO2m4SDN4ub4UbMRtkZKNxwKEbnZKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168430477734-52dsmv7dkst5ltgkc44gpi85kgq2lnil.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "168430477734-1uct6cecvavppqbfgrpikjo3rho3klde.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.appname"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
